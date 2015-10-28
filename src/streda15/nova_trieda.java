@@ -11,5 +11,6 @@ package streda15;
  * @author Ondrej
  */
 public class nova_trieda {
-    
+    //dfhdfhjfdsbfdsbsdf
+    //dfjhdfhdsbfkhasdgbf
 }
